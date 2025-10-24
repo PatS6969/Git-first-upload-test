@@ -1,0 +1,42 @@
+Software License Agreement for Bible Trivia Game  
+Effective Date: October 22, 2025
+
+This Software License Agreement (the "Agreement") is a legal agreement between you (the "Licensee" or "You") and God's Given Wisdom (the "Licensor" or "We"), the owner and developer of the Bible Trivia Game software application (the "Software"). By downloading, installing, accessing, or using the Software, You agree to be bound by the terms of this Agreement. If You do not agree to these terms, do not download, install, access, or use the Software.
+
+1. Grant of License  
+Subject to Your compliance with the terms of this Agreement, Licensor grants You a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use one copy of the Software on a single device owned or controlled by You, solely for personal, non-commercial use. This license does not permit any other use, including but not limited to commercial exploitation, distribution, or modification.
+
+2. Restrictions  
+You may not:
+* Copy, reproduce, modify, adapt, translate, or create derivative works based on the Software or any part thereof (including scripts, images, databases, or other components).
+* Distribute, sell, rent, lease, lend, sublicense, or otherwise transfer the Software or any rights granted hereunder to any third party.
+* Reverse engineer, decompile, disassemble, or attempt to discover the source code, underlying algorithms, or structure of the Software.
+* Remove, alter, or obscure any copyright, trademark, or proprietary notices contained in or on the Software.
+* Use the Software in any manner that violates applicable laws or infringes on the rights of third parties.
+* Use the Software for any purpose other than as expressly permitted in Section 1.
+
+Any attempt to do so is a violation of the rights of the Licensor and may result in termination of this Agreement and legal action.
+
+3. Ownership and Intellectual Property  
+The Software, including all scripts, images, databases, trivia questions, user interfaces, and other components, is owned by the Licensor and protected by copyright laws, trademark laws, and other intellectual property rights. All rights not expressly granted herein are reserved by the Licensor. You acquire no ownership interest in the Software under this Agreement.
+
+4. No Warranty  
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR BE ERROR-FREE.
+
+5. Limitation of Liability  
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE, IF ANY.
+
+6. Termination  
+This Agreement is effective until terminated. Licensor may terminate this Agreement immediately if You breach any term herein. Upon termination, You must cease all use of the Software and destroy all copies in Your possession.
+
+7. Governing Law  
+This Agreement shall be governed by the laws of the Republic of South Africa, without regard to conflict of laws principles.
+
+8. Entire Agreement  
+This Agreement constitutes the entire understanding between You and Licensor regarding the Software and supersedes all prior agreements.
+
+By using the Software, You acknowledge that You have read, understood, and agree to be bound by this Agreement.
+
+God's Given Wisdom  
+godsgivenwisdom@outlook.com  
+Dated: October 22, 2025

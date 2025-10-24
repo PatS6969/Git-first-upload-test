@@ -1,0 +1,40 @@
+Copyright Notice and Protection Statement for Bible Trivia Game  
+Copyright © 2025 Patrick Masfin Smith. All Rights Reserved.
+
+This Copyright Notice and Protection Statement (the "Statement") applies to the Bible Trivia Game software application (the "Work"), including but not limited to:
+* The application itself (the "App");
+* All associated scripts, code, and programming elements (the "Scripts");
+* All images, graphics, icons, and visual assets (the "Images");
+* All databases, data structures, trivia questions, and related content (the "Database").
+
+1. Assertion of Copyright  
+The Work is an original creation of God's Given Wisdom (the "Copyright Holder") and is protected under the South African Copyright Act No. 98 of 1978, as amended, and applicable international copyright treaties, including the Berne Convention. Copyright protection extends to the Application, Scripts, Images, Database, and all other components of the Work, whether in digital, printed, or any other form.
+
+The Copyright Holder hereby asserts full ownership and exclusive rights over the Work. No part of the Work may be used, reproduced, distributed, modified, adapted, displayed, performed, or transmitted in any form or by any means without the express prior written permission of the Copyright Holder.
+
+2. Prohibited Uses  
+Unauthorized use of the Work or any portion thereof is strictly prohibited under South African copyright law. This includes, but is not limited to:
+* Copying, reproducing, or duplicating any part of the App, Scripts, Images, or Database without permission.
+* Distributing, sharing, selling, renting, leasing, or otherwise making available the Work or any derivatives to third parties.
+* Modifying, adapting, translating, or creating derivative works based on the Work.
+* Reverse engineering, decompiling, or disassembling the Work, except to the extent permitted by law.
+* Incorporating any elements of the Work into other software, applications, games, or products.
+* Using the Work for commercial purposes without a separate licensing agreement.
+
+Any such unauthorized use constitutes copyright infringement under the South African Copyright Act and may result in civil and criminal penalties, including damages, interdicts, and legal costs, as provided for under Sections 23 to 27 of the Act.
+
+3. Reservation of Rights  
+All rights not expressly addressed in this Statement are reserved by the Copyright Holder. The Copyright Holder reserves the right to enforce these protections through legal action against any infringers in accordance with South African law.
+
+4. Notice of Infringement  
+If You believe Your rights have been infringed upon in relation to the Work, or if You have questions regarding this Statement, contact the Copyright Holder at [Your Contact Information].
+
+5. Governing Law  
+This Statement is governed by the laws of the Republic of South Africa, and any disputes arising hereunder shall be resolved in the appropriate courts of South Africa.
+
+This Statement does not grant any licenses or permissions and serves solely to notify users of the Copyright Holder's rights under South African law.
+
+Patrick Masfin Smith — God's Given Wisdom  
+14 Dove Avenue, Greenshields Park, Port Elizabeth, South Africa  
+godsgivenwisdom@outlook.com  
+Dated: October 22, 2025
